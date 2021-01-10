@@ -2,11 +2,6 @@
 
 ## Utilizado Apache Airflow versão 2.0
 
-<p align="center">
-<img src="img/anl_enade_2019.png">
-</p>
+![](F:\cods-dockers\airflow-teste\img\anl_enade_2019.PNG)
 
-
-<p align="center">
-<img src="img/anl_enade_2019_2.png">
-</p>
+![anl_enade_2019_2](F:\cods-dockers\airflow-teste\img\anl_enade_2019_2.PNG)
